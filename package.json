@@ -38,6 +38,6 @@
     "should": "^13.2.3"
   },
   "dependencies": {
-    "proxy-agent": "^4.0.1"
+    "proxy-agent": "^5.0.0"
   }
 }
